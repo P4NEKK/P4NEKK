@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @P4NEKK
+- 👀 I’m interested in Game Hacking
+- 🌱 I’m currently learning C++, C# and Lua
+- 📫 My Discord Zaza#1337 
